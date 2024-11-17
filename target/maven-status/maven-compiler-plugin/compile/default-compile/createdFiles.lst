@@ -1,0 +1,8 @@
+hwvisitor/visitors/ConstructorStatsVisitor.class
+hwvisitor/SingletonChecker.class
+hwvisitor/visitors/MethodInvocationPrinter.class
+hwvisitor/App.class
+hwvisitor/NodeUtil.class
+hwvisitor/visitors/StringLitteralPrinter.class
+hwvisitor/MethodUtil.class
+hwvisitor/ParserUtil.class

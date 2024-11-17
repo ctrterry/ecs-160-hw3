@@ -1,0 +1,13 @@
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/visitors/MethodInvocationPrinter.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/visitors/InstanceGetterVisitor.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/MethodUtil.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/App.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/NodeUtil.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/MethodNameCollectorVisitor.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/ParserUtil.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/visitors/ConstructorCallVisitor.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/StatePatternChecker.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/SingletonChecker.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/visitors/StringLitteralPrinter.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/visitors/ConstructorStatsVisitor.java
+/Users/terrychen/Desktop/ECS 160 HW3/starter/src/main/java/hwvisitor/visitors/PrivateStaticVarVisitor.java
